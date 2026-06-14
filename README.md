@@ -103,5 +103,6 @@ frames directly from the PyBullet simulation.
 
 ## Demo
 
-*(Add a screen recording / GIF of the PyBullet navigation run and the optical flow
-windows here.)*
+
+
+
