@@ -100,9 +100,3 @@ python AbhirupPaul_Task1_S2.py
 `AbhirupPaul_Task1_S1.py` and `AbhirupPaul_Task1_Bonus.py` expect `OPTICAL_FLOW.mp4` in the
 working directory. `AbhirupPaul_Task1_S2.py` requires no input video — it renders camera
 frames directly from the PyBullet simulation.
-
-## Demo
-
-
-
-
